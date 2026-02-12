@@ -97,8 +97,8 @@ while True:
 
     if not play_game.lower().startswith('y'):
         break
-
     game_on = True
+
 
     while game_on:
 
